@@ -10,6 +10,12 @@ body {
     background-color: #2A3D45;
 }
 
+footer{
+  color: white;
+  text-align: center;
+  padding-left: 20px;
+}
+
 .contaier {
     background-color: #DDC9B4;
     padding: 20px;
